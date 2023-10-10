@@ -5,7 +5,7 @@ import "@fontsource/ibm-plex-sans";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "warranty System",
+  title: "NFT Warranty",
   description: "A nft based warranty system",
 };
 
